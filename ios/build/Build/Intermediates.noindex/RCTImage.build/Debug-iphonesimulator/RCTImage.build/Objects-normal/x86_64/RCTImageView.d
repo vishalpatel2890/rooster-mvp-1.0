@@ -1,0 +1,31 @@
+dependencies: \
+  /Users/vishalpatel/Documents/Coding/rooster-mvp-1.0/node_modules/react-native/Libraries/Image/RCTImageView.m \
+  /Users/vishalpatel/Documents/Coding/rooster-mvp-1.0/node_modules/react-native/Libraries/Image/RCTImageView.h \
+  /Users/vishalpatel/Documents/Coding/rooster-mvp-1.0/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTResizeMode.h \
+  /Users/vishalpatel/Documents/Coding/rooster-mvp-1.0/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTConvert.h \
+  /Users/vishalpatel/Documents/Coding/rooster-mvp-1.0/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAnimationType.h \
+  /Users/vishalpatel/Documents/Coding/rooster-mvp-1.0/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBorderStyle.h \
+  /Users/vishalpatel/Documents/Coding/rooster-mvp-1.0/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTDefines.h \
+  /Users/vishalpatel/Documents/Coding/rooster-mvp-1.0/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTLog.h \
+  /Users/vishalpatel/Documents/Coding/rooster-mvp-1.0/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAssert.h \
+  /Users/vishalpatel/Documents/Coding/rooster-mvp-1.0/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTUtils.h \
+  /Users/vishalpatel/Documents/Coding/rooster-mvp-1.0/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTPointerEvents.h \
+  /Users/vishalpatel/Documents/Coding/rooster-mvp-1.0/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTTextDecorationLineType.h \
+  /Users/vishalpatel/Documents/Coding/rooster-mvp-1.0/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
+  /Users/vishalpatel/Documents/Coding/rooster-mvp-1.0/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Users/vishalpatel/Documents/Coding/rooster-mvp-1.0/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
+  /Users/vishalpatel/Documents/Coding/rooster-mvp-1.0/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridge.h \
+  /Users/vishalpatel/Documents/Coding/rooster-mvp-1.0/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeDelegate.h \
+  /Users/vishalpatel/Documents/Coding/rooster-mvp-1.0/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTJavaScriptLoader.h \
+  /Users/vishalpatel/Documents/Coding/rooster-mvp-1.0/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeModule.h \
+  /Users/vishalpatel/Documents/Coding/rooster-mvp-1.0/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTFrameUpdate.h \
+  /Users/vishalpatel/Documents/Coding/rooster-mvp-1.0/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTInvalidating.h \
+  /Users/vishalpatel/Documents/Coding/rooster-mvp-1.0/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTEventDispatcher.h \
+  /Users/vishalpatel/Documents/Coding/rooster-mvp-1.0/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTImageSource.h \
+  /Users/vishalpatel/Documents/Coding/rooster-mvp-1.0/ios/build/Build/Products/Debug-iphonesimulator/include/React/UIView+React.h \
+  /Users/vishalpatel/Documents/Coding/rooster-mvp-1.0/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTComponent.h \
+  /Users/vishalpatel/Documents/Coding/rooster-mvp-1.0/node_modules/react-native/Libraries/Image/RCTImageBlurUtils.h \
+  /Users/vishalpatel/Documents/Coding/rooster-mvp-1.0/node_modules/react-native/Libraries/Image/RCTImageLoader.h \
+  /Users/vishalpatel/Documents/Coding/rooster-mvp-1.0/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTURLRequestHandler.h \
+  /Users/vishalpatel/Documents/Coding/rooster-mvp-1.0/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTURLRequestDelegate.h \
+  /Users/vishalpatel/Documents/Coding/rooster-mvp-1.0/node_modules/react-native/Libraries/Image/RCTImageUtils.h
